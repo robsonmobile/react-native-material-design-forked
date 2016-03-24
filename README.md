@@ -1,1 +1,1 @@
-Was moved - [xotahal/react-native-material-design](xotahal/react-native-material-design)
+Was moved - [xotahal/react-native-material-design](https://github.com/xotahal/react-native-material-design)
